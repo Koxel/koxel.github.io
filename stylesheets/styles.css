@@ -149,16 +149,16 @@ iframe {
     text-decoration: none;
 }
 .parallax { 
-    background-image: url("imgs/parallax1.png");
+    background-image: url("../imgs/parallax1.png");
 }
 .parallax ~ .parallax {
-    background-image: url("imgs/parallax2.png");
+    background-image: url("../imgs/parallax2.png");
 }
 
 /* Tables */
 table {
-    margin-left:auto; 
-    margin-right:auto;
+    margin-left: auto; 
+    margin-right: auto;
 }
 td {
     padding: 10px; 
